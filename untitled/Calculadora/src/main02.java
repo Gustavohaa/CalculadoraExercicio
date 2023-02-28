@@ -31,6 +31,7 @@ public class main02 {
                         case '*':
                             resultado *= numero;
                         case '/':
+                            resultado /=numero;
                             break;
                     }
                 }
